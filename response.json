@@ -1,0 +1,453 @@
+{
+  "jobs": [
+   
+    {
+      "job_id": "JyQNkgO1q9uQEaSHAAAAAA==",
+      "job_title": "Senior Data Engineer (Python + Remote)",
+      "employer_name": "Soda Data",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDbl1MISWmsmvLRswt7B4_KuWOYzN-Dgq8fznI&s=0",
+      "employer_website": "https://www.soda.io",
+      "job_publisher": "We Work Remotely",
+      "job_employment_type": "Full-time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://weworkremotely.com/remote-jobs/soda-data-senior-data-engineer-python-remote?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "We Work Remotely",
+          "apply_link": "https://weworkremotely.com/remote-jobs/soda-data-senior-data-engineer-python-remote?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "NoDesk",
+          "apply_link": "https://nodesk.co/remote-jobs/soda-senior-data-engineer-python-remote/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Startup Jobs",
+          "apply_link": "https://startup.jobs/senior-data-engineer-emea-remote-margera-open-positions-6252984?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Ladders",
+          "apply_link": "https://www.theladders.com/job/senior-data-engineer-canada-remote-theleague-virtual-travel_79558535?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Open To Work Remote",
+          "apply_link": "https://www.opentoworkremote.com/view/1340502?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Career Vault",
+          "apply_link": "https://www.careervault.io/remote/mindoula-health-6566/data/senior-data-engineer-100-remote-remote-united-states-2630106?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "JobMESH",
+          "apply_link": "https://jobmesh.io/job/4494e340-9aa5-42b8-a348-515e814d3252?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "RemoteOtter",
+          "apply_link": "https://remoteotter.com/company/leagueinc/jobs/senior-data-engineer-canada-remote-_ddc08560-7fc1-41f4-819c-6300bf98c1cf?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "We are looking for a Senior Data Engineer (Python) to improve and expand our Open Source and Cloud Products. You will work with the Senior Product people, including the CTO and an experienced team of Data, Backend, Frontend, and full-stack engineers. You will own the implementation of major features in Soda Core and Soda Cloud for our Data Observability and Data Testing offerings. You will share your Data Engineering expertise with the rest of the engineering team.\n\nAs we grow, we expect you to grow with us. As our company scales, we envision a successful candidate to develop into an Engineering Lead or a similar position.\n\nResponsibilities\n• Shape the product direction by collaborating with users, customers, and the team to implement new Soda Cloud and Soda Core features that solve real-world data engineering problems.\n• Work on scaling Soda Cloud for a billion datasets.\n• Directly contribute to our open-source library by designing, implementing, and maintaining new Observability and Data Testing features.\n• Implement internal tooling to facilitate product development\nRequirements\n• Experience building data/ML products or cloud-based software\n• Deep knowledge of software engineering best practices like SOLID and design patterns\n• Strong experience with Python Data Stack and SQL skills\n• Deep understanding of data warehouses, data lakes, pipeline testing, data mesh, and related data engineering concepts.\n• Exceptional communication skills in English - both oral and written.\n• You are a swift learner and can easily pick up new concepts.\n• You are incredibly proactive, independent, and comfortable in proposing new ideas. This also means holding your ground when you believe you are right.\n• You're based in Europe and can work in Europe\n• Strong interest in Data Quality, Data Observability, and ML\nNice to haves\n• Prior work on a Data Quality solution or a product for Data Engineers\n• Familiarity with common data warehousing solutions\n• Basic Python Data Science stack knowledge, including Scikit Learn.\n• Experience with GitOps\n• STEM degree from a top university\n\nBenefits\n• The opportunity to be a part of the exciting early stages of a well-funded, European-based Open Source start-up with significant traction and massive venture potential\n• Fully Remote Working Environment with an option to work from an office\n• Compensation: up to 110 000 EUR/year + equity",
+      "job_is_remote": true,
+      "job_posted_at": "6 days ago",
+      "job_posted_at_timestamp": 1741651200,
+      "job_posted_at_datetime_utc": "2025-03-11T00:00:00.000Z",
+      "job_location": null,
+      "job_city": null,
+      "job_state": null,
+      "job_country": null,
+      "job_latitude": null,
+      "job_longitude": null,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DJyQNkgO1q9uQEaSHAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": "YEAR",
+      "job_highlights": {},
+      "job_onet_soc": "15113200",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "DqPtwi_kZy2Mfi6nAAAAAA==",
+      "job_title": "Remote Spark Data Engineer Jobs",
+      "employer_name": "Turing.com",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTueXR0rzSC4PPRFY06j57Xm42ngtOlYTVqvbX9&s=0",
+      "employer_website": "https://www.turing.com",
+      "job_publisher": "Turing",
+      "job_employment_type": "Full-time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://www.turing.com/jobs/remote-spark-data-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "Turing",
+          "apply_link": "https://www.turing.com/jobs/remote-spark-data-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Up2staff",
+          "apply_link": "https://up2staff.com/business-intelligence-data-engineer-at-quench?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "About Turing.com:\n\nTuring’s mission is to unleash the world’s untapped human potential. We use AI to source, evaluate, hire, onboard, and manage engineers remotely (including the HR and compliance aspects) in a bigger platform that we call the “Talent Cloud”.\n\nWe recently achieved unicorn status with a valuation of $1.1B, after raising over $140M in financing over four rounds of funding. 900+ companies including companies like Johnson & Johnson, Pepsi, Dell, Disney +, and Coinbase have hired Turing developers.\n\nAbout the role:\n\nWe, at Turing, are looking for talented remote Spark data engineers who will be responsible for cleaning, transforming, and analyzing vast amounts of raw data from various resources using Apache Spark to provide ready-to-use data to the developers and business analysts. Get a chance to work with the leading Silicon Valley companies while accelerating your career.\n\nJob responsibilities:\n\n- Build and optimize Apache Spark ETL pipelines\n- Deliver scalable, cost-effective, and flexible solutions to clients\n- Participate in iterative, end-to-end application development\n- Keep up with modern software development best practices and lifecycle management\n- Use ETL tools to load data from different sources into the Hadoop platform\n- Communicate regularly in an efficient manner with customers and stakeholders\n- Create Java-based Spark jobs for data transformations and aggregations\n- Conduct unit tests for Spark transformations\n- Implement data processing pipelines with Spark\n\nJob requirements:\n\n- Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)\n- At least 3+ years of experience in data engineering (rare exceptions for highly skilled developers)\n- Expertise in established programming languages like Python, Java, Scala, etc.\n- Mastery of Apache Spark and different Spark Frameworks/Cloud Services like Databricks, EMR, Azure HDI\n- Experience with technologies such as Storm, Apache Kafka, Hadoop, etc.\n- In-depth knowledge of Cloud (AWS, Azure) as well as CI/CD and data visualization\n- Practical experience with containerization technologies and container orchestration using Kubernetes, OpenShift, Docker, etc.\n- Knowledge of technologies like Spark and Hadoop HDFS, Hive, HBase with deep expertise in Spark\n- Fluency in the English language for effective communication\n- Ability to work full-time (40 hours/week) with a 4-hour overlap with US time zones",
+      "job_is_remote": true,
+      "job_posted_at": "3 days ago",
+      "job_posted_at_timestamp": 1741910400,
+      "job_posted_at_datetime_utc": "2025-03-14T00:00:00.000Z",
+      "job_location": null,
+      "job_city": null,
+      "job_state": null,
+      "job_country": null,
+      "job_latitude": null,
+      "job_longitude": null,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DDqPtwi_kZy2Mfi6nAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_salary": null,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": null,
+      "job_highlights": {},
+      "job_onet_soc": "15113200",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "Zih2CumE_Om2pE7tAAAAAA==",
+      "job_title": "Remote BI/Data Engineer Jobs",
+      "employer_name": "Turing.com",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTueXR0rzSC4PPRFY06j57Xm42ngtOlYTVqvbX9&s=0",
+      "employer_website": "https://www.turing.com",
+      "job_publisher": "Turing",
+      "job_employment_type": "Full-time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://www.turing.com/jobs/remote-bi-data-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "Turing",
+          "apply_link": "https://www.turing.com/jobs/remote-bi-data-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Getmatch",
+          "apply_link": "https://secure.getmatch.ru/vacancies/20261-bi-data-engineer?s=offers&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Getmatch",
+          "apply_link": "https://gms.services/vacancies/20261-bi-data-engineer?s=offers&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "About the role:\n\nWe, at Turing, are looking for highly-skilled remote BI/data engineers who will be responsible for creating queries and optimizing the performance of the entire data ecosystem to ensure all infrastructures work smoothly. Get an opportunity to work with the leading U.S. companies and rise quickly through the ranks.\n\nResponsibilities:\n\n- Assist with the design, development, and implementation of data architecture of BI platforms\n- Assess client’s current BI model and offer suggestions for enhanced performance, data handling, and more efficient development process\n- Lead developers to integrate new data quality components within the client’s platform\n- Develop and support detailed dimensional data models and multi-dimensional databases\n- Assist in data extraction from the source system into the data warehouse staging area\n- Ensure data validation, data accuracy, data type conversion, and business rule application\n- Prepare documentation of the ongoing maintenance and operations for future reference\n- Design, develop, refactor, and support web service to consume stored data\n\nRequirements:\n\n- Bachelor’s/Master’s degree in Engineering, Computer Science, Mathematics, Statistics (or equivalent experience)\n- At least 3+ years of hands-on experience as a data engineer (rare exceptions for highly skilled developers)\n- Excellent knowledge and expertise in SQL and Python\n- Experience with Microsoft SQL Server, SSIS, SSAS, SSRS, PPS, including knowledge of customer systems\n- Proficient with developing and calling web service APIs\n- Knowledge of Microsoft Visual Studio and Team Foundation Server\n- Expertise in collecting and analyzing data requirements\n- Knowledge of integrating data quality tools, like Experian, Trillium, Informatica, etc.\n- Experience working with multi-dimensional (OLAP) databases\n- Clear idea about database administration concepts, principles, and data management\n- Experience working with ETL tools for data extraction, cleansing, optimization, and loading\n- Fluency in English language for effective communication\n- Ability to work full-time (40 hours/week) with a 4 hour overlap with US time zones\n\nKey benefits:\n\n- Elite U.S. Jobs\n- Long-term, full-time opportunities\n- Flexibility to work from anywhere in the world\n- Better compensation\n- Career growth\n- Exclusive Developer Community\n- Upskilling workshops\n- Career development sessions\n- Networking meetups\n- Referral programs",
+      "job_is_remote": true,
+      "job_posted_at": "3 days ago",
+      "job_posted_at_timestamp": 1741910400,
+      "job_posted_at_datetime_utc": "2025-03-14T00:00:00.000Z",
+      "job_location": null,
+      "job_city": null,
+      "job_state": null,
+      "job_country": null,
+      "job_latitude": null,
+      "job_longitude": null,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DZih2CumE_Om2pE7tAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_salary": null,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": null,
+      "job_highlights": {},
+      "job_onet_soc": "43911100",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "_YShbWZIer_2envbAAAAAA==",
+      "job_title": "Remote Big Data Engineer Jobs",
+      "employer_name": "Turing.com",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTueXR0rzSC4PPRFY06j57Xm42ngtOlYTVqvbX9&s=0",
+      "employer_website": "https://www.turing.com",
+      "job_publisher": "Turing",
+      "job_employment_type": "Full-time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://www.turing.com/jobs/remote-big-data-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "Turing",
+          "apply_link": "https://www.turing.com/jobs/remote-big-data-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Insight Global",
+          "apply_link": "https://jobs.insightglobal.com/find_a_job/california/job-301491/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Www.getonbrd.com",
+          "apply_link": "https://www.getonbrd.com/jobs/sysadmin-qa/remote-aws-big-data-engineer-scopic-remoto?__hstc=150973801.2f3f33a24b44870ec4a577029c49e44b.1591315200115.1591315200116.1591315200117.1&__hssc=150973801.1.1591315200118&__hsfp=3320847746&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Freiguide.de",
+          "apply_link": "https://www.freiguide.de/freelance-jobs/969bee08-5fa0-4552-aa67-2e374d487445?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "About the role:\nAt Turing, we are looking for Big Data engineers who will work with our U.S based clients. The engineer will be responsible for providing accurate insights that will make business decisions easier for our customers. Get a chance to collaborate with highly skilled professionals and rise quickly through the ranks.\n\nAbout Turing.com:\nTuring’s mission is to unleash the world’s untapped human potential. We use AI to source, evaluate, hire, onboard, and manage engineers remotely (including the HR and compliance aspects) in a bigger platform that we call the “Talent Cloud”.\n\nWe recently achieved unicorn status with a valuation of $1.1B, after raising over $140M in financing over four rounds of funding. 900+ companies including companies like Johnson & Johnson, Pepsi, Dell, Disney +, and Coinbase have hired Turing developers.\n\nJob Responsibilities:\n- Select and integrate required Big Data tools and frameworks to deliver needed aptitudes\n- Assemble, process, and analyze raw data at scale to support different project requirements\n- Monitor data performance and revise infrastructure where required\n- Maintain the production systems and define data retention methods\n- Work closely with internal development and research teams\n- Handle technical conversation between internal operations and survey vendors\n- Take care of multiple tasks, including script writing, web scraping, calling APIs, and QL query writing\n- Explore new ideas from industry best practices, data modifications, and experience to resolve data mining issues\n\nJob Requirements:\n- Bachelor’s/Master’s degree in Computer Science, Computer Engineering, Data Science or equivalent\n- 3+ years of demonstrable experience as a Data Engineer (rare exceptions for highly-skilled devs)\n- Keen perception of distributed computing principles\n- In-depth knowledge of data mining, machine learning, and information retrieval\n- Expertise in Hadoop, Spark, and similar frameworks\n- Knowledge of Lambda architecture, its benefits and shortcomings\n- Expertise in multiple scripting languages, including Java, C++, Linux, PHP, or Python\n- Familiarity with various ETL techniques and frameworks\n\nPreferred skills:\n- Willingness to solve complex data, software, and networking issues\n- Work experience in Cloudera, Hortonworks or MapR\n- Experience in data integration from various sources\n- Familiarity with RDBMS and NoSQL databases\n- Experience in data lake handling\n- Outstanding troubleshooting and project management skills\n\nWhat we offer:\n- Elite U.S. Jobs\n- Long-term, full-time opportunities\n- Flexibility to work from anywhere in the world\n- Better compensation\n- Career growth\n- Exclusive Developer Community\n- Upskilling workshops\n- Career development sessions\n- Networking meetups\n- Referral programs\n\nOnce you join Turing, you'll never have to apply for another job!",
+      "job_is_remote": true,
+      "job_posted_at": "3 days ago",
+      "job_posted_at_timestamp": 1741910400,
+      "job_posted_at_datetime_utc": "2025-03-14T00:00:00.000Z",
+      "job_location": null,
+      "job_city": null,
+      "job_state": null,
+      "job_country": null,
+      "job_latitude": null,
+      "job_longitude": null,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D_YShbWZIer_2envbAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_salary": null,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": null,
+      "job_highlights": {},
+      "job_onet_soc": "15113200",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "h_JeUXCfQpgD7dzbAAAAAA==",
+      "job_title": "Technical Solutions Engineer - Data (Remote)",
+      "employer_name": "Tinybird",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Mx3z-fG2ug7l2pjtezAg9bMbC_RV9zIoA8V1&s=0",
+      "employer_website": "http://www.tinybird.co/",
+      "job_publisher": "DailyRemote",
+      "job_employment_type": "Full-time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://dailyremote.com/remote-job/technical-solutions-engineer-data-remote-3485964?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "DailyRemote",
+          "apply_link": "https://dailyremote.com/remote-job/technical-solutions-engineer-data-remote-3485964?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Post Job",
+          "apply_link": "https://callcenterjob.co.in/technical-lead-cloud-data-solutions-st-louis_958016?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "About Tinybird:\n\nAt Tinybird, we help developers and data teams take flight by unlocking the power of real-time data to quickly build data pipelines and innovative data products. With Tinybird, you can effortlessly ingest multiple data sources at scale, query and shape it using the 100% pure SQL you already know and love, and publish results as low-latency, high-concurrency APIs for your applications to chirp about. Developers can create fast APIs, faster—what used to take hours and days now only takes minutes! Tinybird is the essential tool that data engineers and software developers have been waiting for enabling you to drive innovation with ease.\n\nWhat we are looking for: We’re seeking a talented individual who can define and implement data architecture solutions for our clients. We may not have the perfect role title just yet, but we’re confident you’ll help us find the right fit. Our priority is finding someone who thrives on solving technical challenges, working closely with customers, and being a driving force behind the development of our platform.\n\nWhat you will be working on: In this role, you’ll work cross-functionally across Sales, Engineering, and Product to engage with prospects and existing customers. You’ll participate in product demos, assist with technical integrations, answer questions, and provide expert guidance. Most importantly, you’ll have a chance to shape how our product evolves based on real-world customer needs. If you have a passion for technology, a knack for problem-solving, and strong communication skills that allow you to translate complex technical concepts into simple, actionable solutions, this role could be a great fit for you.\n\nKey Responsibilities:\n• Understand client needs: Work closely with customers to understand their business goals and technical requirements. Transform these into clear, practical solutions using Tinybird.\n• Real-time data expertise: Help customers implement real-time data solutions at scale. You’ll teach them how to harness the power of our platform to process and analyze data in real time.\n• Optimization & performance: Tackle complex performance challenges, reducing latency and improving the overall efficiency of our solutions.\n• Prototyping & hands-on development: Develop quick prototypes to demonstrate best practices and solutions, showing customers the most effective ways to approach problems.\n• SQL proficiency: Since our platform is built around SQL, you’ll write efficient and optimized queries that drive performance and enable customers to achieve their goals.\n• Drive product evolution: While your main focus will be on helping customers succeed, the insights you gain will directly influence the future development of our platform. At Tinybird, everyone plays a role in shaping the product.\n\nWhat We’re Looking For:\n• Technical expertise: Strong experience with data architecture, SQL, and performance optimization. Experience with real-time data or distributed systems is a plus.\n• Customer-focused: You’re a problem-solver who can connect with customers, understand their challenges, and create effective solutions that meet their needs.\n• Excellent communication: You know how to explain complex technical concepts in simple, clear terms. Whether it’s in a meeting, a demo, or through documentation, you’re great at communicating and teaching others.\n• Collaborative mindset: You enjoy working with cross-functional teams and contributing to a shared vision. Your feedback will help drive product decisions and improve customer experiences.\n• Location: Ideally based in Europe or a time zone close to CET (Central European Time), as our engineering team is located in this zone. However, this is flexible, and we’re open to other locations.\n\n€68,400 - €89,000 a year\nThis is an OTE range and consists of base salary and target bonus.\n\nHow We Work:\n\nWe’re a fully remote company, committed to a remote-first culture.\n\nWith offices in Madrid and New York City, we love face-to-face interactions, you can visit whenever it suits you!\n\nAs we’re in the early stages, your contributions will have a significant impact on everything we do.\n\nWe believe in transparency, so you’ll always be in the loop about what’s happening.\n\nCheck out our blog or follow us on LinkedIn to find out more about what’s important to us!\n\nCompensation and Perks: This role includes both cash compensation and a stock options grant. You can find our typical starting salary ranges for this role listed above, which vary by specific location.\n\nWe Also Offer:\n\n22 days of holiday a year (plus your birthday and public holidays).\n\nFreedom to work from wherever suits you best.\n\nWe provide up to €2,400 to help you set up your home workspace.\n\n#LI-Remote",
+      "job_is_remote": true,
+      "job_posted_at": null,
+      "job_posted_at_timestamp": null,
+      "job_posted_at_datetime_utc": null,
+      "job_location": null,
+      "job_city": null,
+      "job_state": null,
+      "job_country": null,
+      "job_latitude": null,
+      "job_longitude": null,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dh_JeUXCfQpgD7dzbAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_salary": null,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": null,
+      "job_highlights": {},
+      "job_onet_soc": "15119900",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "n6XjnHeAdef73saxAAAAAA==",
+      "job_title": "Principal Data Engineer (Remote, Lahore, PKR Salary)",
+      "employer_name": "HR POD - Hiring Talent Globally",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDev91jrvB6yinjrqf-kMDKOPMLt1g44GqLWPW&s=0",
+      "employer_website": null,
+      "job_publisher": "Jobgether",
+      "job_employment_type": "Full-time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://jobgether.com/offer/67c881644517c7a0a3d25f97-principal-data-engineer-remote-lahore-pkr-salary?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "Jobgether",
+          "apply_link": "https://jobgether.com/offer/67c881644517c7a0a3d25f97-principal-data-engineer-remote-lahore-pkr-salary?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "This a Full Remote job, the offer is available from: Pakistan\n\nRequirements:\n• Bachelors or master's degree in computer science, Engineering, Information Technology, or a related field.\n• 5 to 7 years of experience in data engineering with a strong focus on cloud-based solutions.\n• Expertise in Azure Synapse Analytics, including data integration, management, and security.\n• Proficient with SQL, Python, PySpark, and other scripting languages commonly used in data engineering.\n• Familiar with Azure IaC (Infrastructure as Code) and CI/CD automation using ARM, Bicep or Terraform\n• Deep knowledge of ELT (Extract, Load, Transform) and ETL (Extract, Transform, Load) processes and experience with Azure Data Factory.\n• Strong understanding of data modeling (Data Vault 2.0 experience or certification preferred), data warehousing, and data lakes.\n• Proven consulting or advisory roles in the design and deployment of large-scale data solutions in Azure environments.\n• Experience working directly with clients or stakeholders in a consulting capacity, translating business needs into technical specifications and actionable plans.\n• Demonstrated ability to contribute to project leadership, coordinate across client functional groups, and manage client relationships.\n• Microsoft Certified: Azure Data Engineer Associate preferrable\n• Microsoft Certified: Azure Solutions Architect Expert preferrable\n• Certified Data Vault 2.0 Practitioner (CDVP2) preferrable\n\nResponsibilities:\n• Design and implement highly scalable, high performance data warehousing solutions in Azure Synapse.\n• Analyze and migrate existing data systems to Azure Cloud, optimizing data flow and collection to improve data accuracy and utility.\n• Contribute to data architecture design and modeling initiatives, ensuring alignment with business needs and compliance with data governance standards.\n• Consult with stakeholders to define data requirements, deliverables, and timelines, providing technical leadership and guidance throughout project lifecycles.\n• Implement data security and privacy policies in line with industry best practices and organizational standards.\n• Optimize data integration pipelines for performance and scalability.\n• Develop and maintain documentation regarding data architectures, procedures, and solutions.\n\nThis offer from \"HR POD - Hiring Talent Globally\" has been enriched by Jobgether.com and got a 72% flex score.",
+      "job_is_remote": true,
+      "job_posted_at": "17 days ago",
+      "job_posted_at_timestamp": 1740700800,
+      "job_posted_at_datetime_utc": "2025-02-28T00:00:00.000Z",
+      "job_location": "Pakistan",
+      "job_city": null,
+      "job_state": null,
+      "job_country": "PK",
+      "job_latitude": 30.375321,
+      "job_longitude": 69.34511599999999,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dn6XjnHeAdef73saxAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_salary": null,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": null,
+      "job_highlights": {},
+      "job_onet_soc": "15113200",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "r8PhufY0rWw7SZHVAAAAAA==",
+      "job_title": "Remote Hadoop/Kafka Data Engineer Jobs",
+      "employer_name": "Turing.com",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTueXR0rzSC4PPRFY06j57Xm42ngtOlYTVqvbX9&s=0",
+      "employer_website": "https://www.turing.com",
+      "job_publisher": "Turing",
+      "job_employment_type": "Full-time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://www.turing.com/jobs/remote-hadoop-kafka-data-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "Turing",
+          "apply_link": "https://www.turing.com/jobs/remote-hadoop-kafka-data-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Job description:\n\nWe, at Turing, are looking for talented remote Hadoop/Kafka data engineers who will be responsible for creating new features and components on the data platform or infrastructure, producing detailed technical work and high level architectural design. Here's the best chance to collaborate with top industry leaders while working with top Silicon Valley companies.\n\nKey responsibilities\n\n- Design and develop low-latency, highly-performance data analytics applications\n- Develop automated data pipelines to synchronize and process complex data streams\n- Collaborate with data scientists/engineers, front-end developers, and designers to create data processing and data storage components\n- Build data models for relational databases and write comprehensive integration tests to deliver high-quality products\n- Participate in loading data from several disparate datasets, assist documentation team in providing good customer documentation\n- Contribute in scoping and designing analytic data assets and implementing modeled attributes\n\nBasic Requirements\n\n- Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)\n- 3+ years of experience in Data engineering (rare exceptions for highly skilled developers)\n- Extensive experience with big data technologies like Hadoop, Hive, Druid, etc.\n- Expertise in creating and managing big data pipelines using Kafka, Flume, Airflow etc.\n- Efficient working with Python and other data processing languages like Scala, Java etc.\n- Working experience with AWS hosted environments\n- Strong knowledge of databases including SQL, MySQL, PostgreSQL\n- Familiarity with DevOps environments and containerization with Docker, Kubernetes etc.\n- Fluent in English to communicate effectively\n- Ability to work full-time (40 hours/week) with a 4 hour overlap with US time zones\n\nAbout Turing.com\n\nTuring’s mission is to unleash the world’s untapped human potential. We use AI to source, evaluate, hire, onboard, and manage engineers remotely (including the HR and compliance aspects) in a bigger platform that we call the “Talent Cloud”.\n\nWe recently achieved unicorn status with a valuation of $1.1B, after raising over $140M in financing over four rounds of funding. 100+ companies including companies like Johnson & Johnson, Pepsi, Dell, Disney +, and Coinbase have hired Turing developers.",
+      "job_is_remote": true,
+      "job_posted_at": "3 days ago",
+      "job_posted_at_timestamp": 1741910400,
+      "job_posted_at_datetime_utc": "2025-03-14T00:00:00.000Z",
+      "job_location": null,
+      "job_city": null,
+      "job_state": null,
+      "job_country": null,
+      "job_latitude": null,
+      "job_longitude": null,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dr8PhufY0rWw7SZHVAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_salary": null,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": null,
+      "job_highlights": {},
+      "job_onet_soc": "15113200",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "job_id": "oScjJIHgRBFaJSR7AAAAAA==",
+      "job_title": "Regular Engineer (Data Engineer / MLOps)",
+      "employer_name": "Wiser Technology",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2axuHFnBH_Dh_knstaMc_a-1NW9c4v9cC-BmC&s=0",
+      "employer_website": "https://wisertech.com",
+      "job_publisher": "Remote",
+      "job_employment_type": "Full-time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://remote.com/jobs/wiser-technology-c155vr96/regular-engineer-data-engineer-mlops-j1etafgg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "Remote",
+          "apply_link": "https://remote.com/jobs/wiser-technology-c155vr96/regular-engineer-data-engineer-mlops-j1etafgg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Wiser Technology is a leading software development company. Our team of 600 engineers across Europe excels in web and mobile software development, video streaming, defense, machine learning, automotive, e-commerce, and AI. We leverage top-tier technologies and expertise driven by a passion for innovation to drive progress.\n\nWHAT YOU WILL DO:\n• Build and manage data pipelines to support AI model training and inferencing, ensuring data is efficiently processed and integrated.\n• Collaborate with ML engineers and data scientists to automate the model deployment process using CI/CD pipelines.\n• Develop monitoring systems to track the performance of AI models in production environments.\n• Ensure proper data preprocessing for AI/ML models, including cleaning, transforming, and validating data for model training.\n• Build tools to facilitate model versioning, automated retraining, and testing of optimized models.\n\nWHAT YOU WILL NEED:\n• 3+ years of experience in data engineering or MLOps, particularly with AI model deployment and automation.\n• Strong understanding of data pipeline management and cloud-based AI infrastructures.\n• Knowledge of best practices in MLOps for automating and monitoring machine learning workflows.\n• Data Engineering Tools: Proficiency in frameworks such sa Apache Kafka, Apache Spark, Airflow, and ETL frameworks for managing data pipelines.\n• MLOps Frameworks: Experience with MLflow, Kubeflow, or Seldon for automating model training, testing, and deployment.\n• Cloud Platforms: Expertise in cloud platforms like AWS SageMaker, Azure ML, and Google AI Platform for AI/ML infrastructure.\n• Containerization: Proficiency in using Docker and Kubernetes for deploying scalable AI models.\n• Monitoring & Logging: Familiarity with monitoring tools such as Prometheus, Grafana, or ELK Stack for tracking AI model performance in production.\n\nWHAT’S IN IT FOR YOU?\n\nCulture & Development:\n• Friendly Environment: We take pride in our culture and love spending time together.\n• Team Spirit: Be part of a supportive team that uplifts each other.\n• Mentorship and coaching: Our colleagues are experts in their field, and you can expect to have a solid team to rely on.\n• Personalized Development Program: We realize that one size doesn’t fit all, so you'll receive an individual development plan tailored to your career aspirations.\n\nSocial Benefits:\n• Work Flexibility: Embrace flexible working hours and choose from remote, hybrid, or onsite work models. Multiple Office Locations: In Sofia, Plovdiv, Stara Zagora, and Nis, you can choose where you would like to work.\n• A Suite of Perks: Enjoy food vouchers, additional health insurance, sports cards, and more.\n• Community and Connections: Engage in exciting social events and team initiatives.\n\nEmpowerment: At Wiser, every role is instrumental. You will have the power to make a difference!\n\nReady to advance your career with a tech leader passionately driven by innovation?\n\nJoin Wiser - Become Wiser!",
+      "job_is_remote": true,
+      "job_posted_at": null,
+      "job_posted_at_timestamp": null,
+      "job_posted_at_datetime_utc": null,
+      "job_location": null,
+      "job_city": null,
+      "job_state": null,
+      "job_country": null,
+      "job_latitude": null,
+      "job_longitude": null,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DoScjJIHgRBFaJSR7AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_salary": null,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": null,
+      "job_highlights": {},
+      "job_onet_soc": "15111100",
+      "job_onet_job_zone": "5"
+    },
+    {
+      "job_id": "qesjlTtVFIKqv4fhAAAAAA==",
+      "job_title": "Data Engineer, Credit Modeling",
+      "employer_name": "PayPay",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu22LFiLZG5dBLtoke5SCxg-Nm71MPy52V5_xX&s=0",
+      "employer_website": "https://about.paypay.ne.jp",
+      "job_publisher": "Japan Dev",
+      "job_employment_type": "Full-time",
+      "job_employment_types": [
+        "FULLTIME"
+      ],
+      "job_apply_link": "https://japan-dev.com/jobs/paypay/paypay-data-engineer-credit-modeling-426aox?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "apply_options": [
+        {
+          "publisher": "Japan Dev",
+          "apply_link": "https://japan-dev.com/jobs/paypay/paypay-data-engineer-credit-modeling-426aox?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "TokyoDev",
+          "apply_link": "https://www.tokyodev.com/companies/paypay/jobs/data-engineer-credit-modeling?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Cake",
+          "apply_link": "https://www.cake.me/companies/paypay/jobs/data-engineer-credit-modeling?locale=es&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "PayPay is looking for a Data Engineer for the Credit Modeling team to conceptualize, design and implement improvements to ETL processes and data through independent communication with data-savvy stakeholders.\n\nResponsibilities\n• Design, build, and maintain distributed batch and real-time data pipelines and data models.\n• Facilitate real-life actionable use cases leveraging our data with a user- and product-oriented mindset.\n• Be curious and eager to work across a variety of engineering specialties (i.e., Data Science, and Machine Learning to name a few).\n• Support teams without data engineers with building decentralized data solutions and product integrations, for example around DynamoDB.\n• Enforce privacy and security standards by design.\n\nQualifications\n• +3 years experience building complex data pipelines and working with both technical and business stakeholders.\n• Experience in at least one primary language (e.g., Java, Scala, Python) and SQL (any variant).\n• Experience with technologies like BigQuery, Spark, AWS Redshift, Kafka, or Kinesis streaming.\n• Experience creating and maintaining ETL processes.\n• Experience designing, building, and operating a DataLake or Data Warehouse.\n• Experience with DBMS and SQL tuning.\n• Strong fundamentals in big data and machine learning.\n\nPreferred Qualifications\n• Experience with RESTful APIs, Pub/Sub Systems, or Database Clients.\n• Experience with analytics and defining metrics.\n• Experience with measuring data quality.\n• Experience productionalizing a machine learning workflow; MLOps\n• Experience in one or more machine learning frameworks, including but not limited to scikit-learn, Tensorflow, PyTorch and H2O.\n• Language ability in Japanese and English is a plus (We have a professional translator but it is nice to have language skills).\n• Experience with AWS services.\n• Experience with microservices.\n• Knowledge of Data Security and Privacy.\n• Bilingual Japanese-English",
+      "job_is_remote": true,
+      "job_posted_at": null,
+      "job_posted_at_timestamp": null,
+      "job_posted_at_datetime_utc": null,
+      "job_location": "Japan",
+      "job_city": null,
+      "job_state": null,
+      "job_country": "JP",
+      "job_latitude": 36.204823999999995,
+      "job_longitude": 138.252924,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DqesjlTtVFIKqv4fhAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_salary": null,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_period": null,
+      "job_highlights": {},
+      "job_onet_soc": "43404100",
+      "job_onet_job_zone": null
+    }
+  ]
+}
