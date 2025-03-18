@@ -1,4 +1,3 @@
-Machine Learning and Web Scraping Project
 Welcome to the Machine Learning and Web Scraping Project! This repository contains a collection of Python scripts and utilities designed to perform machine learning tasks and web scraping, with support for ChromeDriver automation.
 Project Structure
 * llm_filter.py: Contains logic for filtering or processing large language model outputs.
